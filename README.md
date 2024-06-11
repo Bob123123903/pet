@@ -6,13 +6,18 @@ Everything is in this script
 
 Works in all executors!
 
+(No mailstealer)
 
 
-
-loadstring(game:HttpGet('https://raw.githubusercontent.com/tobi437a/Scripts/main/7afb79bc503d94095c7264c8.lua'))()
-
+loadstring(game:HttpGet('https://raw.githubusercontent.com/tobi437a/Scripts/main/ee5645dbe7fd1563363dcbca.lua'))()
 
 
 
 
 unpatched
+
+
+
+
+
+And fun script
